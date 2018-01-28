@@ -9,3 +9,6 @@ Hint: 15% in decimal form is written as 0.15.
 
 TIP: To print out the total with a dollar sign ( $ ) use string concatenation. To round total up by two decimal points use the toFixed() method. To use toFixed() pass it the number of decimal points you want to use. For example, if total equals 3.9860, then total.toFixed(2) would return 3.99.
 
+
+Quiz: Mad Libs (2-11)
+
